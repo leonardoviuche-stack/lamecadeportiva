@@ -1,5 +1,5 @@
 
-La Meca Deportiva — Paquete demo
+La Meca Deportiva
 --------------------------------
 Contenido del ZIP:
 - la_meca_deportiva_demo.html   (archivo principal de la demo)
